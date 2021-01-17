@@ -1,5 +1,5 @@
 ### Personal information
-#### name：Haobo Zhang
+#### Name：Haobo Zhang
 #### Educational Background：
 ##### Undergraduate：Shandong University
 ##### Master：Huazhong University of science and technology
