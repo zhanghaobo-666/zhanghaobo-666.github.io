@@ -1,11 +1,9 @@
-## Welcome to GitHub Pages
-
-### 个人信息
-#### 姓名：张浩波
-#### 教育背景：
-##### 本科：山东大学
-##### 硕士：华中科技大学
-##### 博士：华中科技大学
-### 研究方向
-#### 生物医学图像处理
-#### 生物信息处理
+### Personal information
+#### name：Haobo Zhang
+#### Educational Background：
+##### Undergraduate：Shandong University
+##### Master：Huazhong University of science and technology
+##### Doctor：Huazhong University of science and technology
+### Research interests
+#### Medical image processing
+#### Bioinformatics processing
